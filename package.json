@@ -4,7 +4,7 @@
   "description": "Dump swagger json spec into pdf document.",
   "main": "index.js",
   "scripts": {
-    "preinstall": "npm i -g http-server",
+    "preinstall": "sudo npm i -g http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
